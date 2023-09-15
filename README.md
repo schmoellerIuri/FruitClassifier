@@ -5,3 +5,5 @@ Repositório destinado ao projeto final da matéria de Processamento Digital de 
 1 clementine
 2 lemon
 3 tomato
+4 strawberry
+5 apple
