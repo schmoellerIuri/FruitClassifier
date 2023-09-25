@@ -1,5 +1,5 @@
 # Fruit Classifier
-Project with an objective of doing a linear classifier of fruits images
+Project of a fruits images linear classifier.
 
 These are the following classes and its ids:
 0 banana
