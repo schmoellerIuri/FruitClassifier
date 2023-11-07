@@ -2,6 +2,7 @@
 Project of a fruits images linear classifier.
 
 These are the following classes and its ids:
+
 0 banana 🍌
 
 1 clementine 🍊
