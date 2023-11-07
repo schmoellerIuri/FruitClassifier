@@ -11,7 +11,7 @@ These are the following classes and its ids:
 
 3 tomato 🍅
 
-4 strawberry 🍎
+4 strawberry 🍓
 
 5 apple 🍎
 
