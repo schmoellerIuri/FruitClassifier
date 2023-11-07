@@ -2,22 +2,22 @@
 Project of a fruits images linear classifier.
 
 These are the following classes and its ids:
-0 banana
+0 banana 🍌
 
-1 clementine
+1 clementine 🍊
 
-2 lemon
+2 lemon 🍋
 
-3 tomato
+3 tomato 🍅
 
-4 strawberry
+4 strawberry 🍎
 
-5 apple
+5 apple 🍎
 
-6 pineapple
+6 pineapple 🍍
 
-7 pear
+7 pear 🍐
 
-8 papaya
+8 papaya 🥭
 
-9 coconut
+9 coconut 🥥
