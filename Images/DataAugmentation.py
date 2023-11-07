@@ -78,7 +78,7 @@ def save_image(img, i, img_sequence):
     filePath = fruitName + "/" + fruitId + "-" + str(img_sequence) + "-" + versions[i%4] + "-" + backgrounds[i%2] + ".png"
     plt.imsave(filePath, img)
 
-fruitName = 'Tomato'
+fruitName = 'Coconut'
 
 #your path 
 col_dir = f'{fruitName}/*.png'
