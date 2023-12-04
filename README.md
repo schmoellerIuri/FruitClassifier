@@ -2,6 +2,7 @@
 Project of a fruits images linear classifier, using convoulutional residual neural networks .
 
 **1 - Classes**
+
 These are the following classes and its ids:
 
 0 banana 🍌
@@ -25,6 +26,7 @@ These are the following classes and its ids:
 9 coconut 🥥
 
 **2 - Project structure**
+
 **Our image database is located in this current repository, it contains about to 650 images. Is important to point that a data augmentation was made to improve the amount of training data**
 
 To run our project you just have to access our [Google Colaboratory File](https://site112.com/cifra-de-cesar-codificar-descodificar)
