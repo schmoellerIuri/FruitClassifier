@@ -39,3 +39,12 @@ To run our project you just have to access:
 
 The data augmentation was done using gamma and logarithm transformations. Therefore, we used a convolutional mean filter using openCV. The code used in data augmentation is <a href="https://github.com/schmoellerIuri/FruitClassifier/blob/master/Images/DataAugmentation.py">Here!</a>
 
+**<h2>Training and predictions</h2>**
+
+We used deep learning to train our Convolutional Neural Network. First, we separated the training, test and validation data as 70%, 15% and 15% respectively using SciKitImage. 
+
+Then we used a base model for our network: the ResNet Keras' implementation. That is a Residual Convolutional Neural Network, a CNN where each convolutional layer reuses data from previous layers, learning residual functions. In our model we used the 50 Layers model of the network. Since our database is too small we decided to use the imagenet pre trained weights. We've also added three more layers to the model, adapting the output of the network to only 10 neurons that represents each one of our fruit classes.
+
+We can see the ResNet50 architecture bellow:
+
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*rPktw9-nz-dy9CFcddMBdQ.jpeg">
