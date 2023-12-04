@@ -35,4 +35,7 @@ To run our project you just have to access:
 
 <a href="https://colab.research.google.com/drive/17slxQlLX9yw3CXFnD0n8IKAwh1q1Stdi"><img src="https://colab.research.google.com/img/colab_favicon.ico" width="50" height="50"></a>
 
+**<h2>Data augmentation</h2>**
+
+The data augmentation was done using gamma and logarithm transformations. Therefore, we used a convolutional mean filter using openCV. The code used in data augmentation is <a href="https://github.com/schmoellerIuri/FruitClassifier/blob/master/Images/DataAugmentation.py">Here!</a>
 
