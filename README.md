@@ -32,6 +32,7 @@ These are the following classes and its ids:
 **<h2>Running environment</h2>**
 
 To run our project you just have to access:
+
 <a href="https://colab.research.google.com/drive/17slxQlLX9yw3CXFnD0n8IKAwh1q1Stdi"><img src="https://colab.research.google.com/img/colab_favicon.ico" width="50" height="50"></a>
 
 
