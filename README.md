@@ -53,7 +53,7 @@ We can see the ResNet50 architecture bellow:
 
 **<h1>Predictions</h1>**
 We had great results using our model, to check the performance with validation data we used the classification report function provided by ScikitLearn.metrics.
-We've got the following output:
+We got the following output:
 
 4/4 [==============================] - 1s 32ms/step
 
