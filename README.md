@@ -22,3 +22,5 @@ These are the following classes and its ids:
 8 papaya 🥭
 
 9 coconut 🥥
+
+[Report](https://github.com/schmoellerIuri/FruitClassifier/blob/master/Report.pdf)
