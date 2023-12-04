@@ -1,5 +1,5 @@
 # Fruit Classifier
-Project of a fruits images linear classifier, using convoulutional residual neural networks .
+Project of a fruits classifier, using convoulutional residual neural networks .
 
 **<h1>1 - Classes</h1>**
 
