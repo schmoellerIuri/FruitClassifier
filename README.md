@@ -41,7 +41,7 @@ The data augmentation was done using gamma and logarithm transformations. Theref
 
 **<h2>Training and predictions</h2>**
 
-**<h1>Training</h1>**
+**<h3>Training</h1>**
 
 We used deep learning to train our Convolutional Neural Network. First, we separated the training, test and validation data as 70%, 15% and 15% respectively using SciKitLearn. 
 
@@ -51,7 +51,7 @@ We can see the ResNet50 architecture bellow:
 
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*rPktw9-nz-dy9CFcddMBdQ.jpeg">
 
-**<h1>Predictions</h1>**
+**<h3>Predictions</h1>**
 We had great results using our model, to check the performance with validation data we used the classification report function provided by ScikitLearn.metrics.
 We got the following output:
 
