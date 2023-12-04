@@ -57,6 +57,7 @@ We've got the following output:
 
 4/4 [==============================] - 1s 32ms/step
 Classification report for classifier CNN:
+
               precision    recall  f1-score   support
 
            0       1.00      1.00      1.00         9
@@ -69,7 +70,6 @@ Classification report for classifier CNN:
            7       1.00      1.00      1.00         7
            8       1.00      1.00      1.00         8
            9       1.00      1.00      1.00         9
-
     accuracy                           0.99       101
    macro avg       0.99      0.99      0.99       101
 weighted avg       0.99      0.99      0.99       101
