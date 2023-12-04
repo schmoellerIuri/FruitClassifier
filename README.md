@@ -30,7 +30,7 @@ These are the following classes and its ids:
 **Our image database is located in this current repository, it contains about to 650 images. Is important to point that a data augmentation was made to improve the amount of training data**
 
 **<h2>Running environment</h2>**
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1280px-Google_Colaboratory_SVG_Logo.svg.png" width="100" height="50">
+<img src="https://colab.research.google.com/img/colab_favicon.ico">
 To run our project you just have to access our [Google Colaboratory File](https://colab.research.google.com/drive/17slxQlLX9yw3CXFnD0n8IKAwh1q1Stdi) 
 
 
