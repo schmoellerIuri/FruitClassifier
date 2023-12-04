@@ -1,7 +1,7 @@
 # Fruit Classifier
 Project of a fruits images linear classifier, using convoulutional residual neural networks .
 
-**1 - Classes**
+**<h1>1 - Classes</h1>**
 
 These are the following classes and its ids:
 
@@ -25,7 +25,7 @@ These are the following classes and its ids:
 
 9 coconut 🥥
 
-**2 - Project structure**
+**<h1>2 - Running Environment and implementation</h1>**
 
 **Our image database is located in this current repository, it contains about to 650 images. Is important to point that a data augmentation was made to improve the amount of training data**
 
